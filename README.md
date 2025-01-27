@@ -3,9 +3,9 @@
 
 ---
 
-- 🏢 Actualmente soy Técnico y Tecnólogo en Análisis y Desarrollo de Software, egresado de SENA.  
-- 💻 Tengo experiencia desarrollando soluciones con Node.js, React, Vue, MongoDB, PostgreSQL y otras tecnologías modernas.  
-- 🌱 Actualmente estoy profundizando mis conocimientos en bases de datos, machine learning y desarrollo web.  
+- 🏢 Actualmente soy Técnico y Tecnólogo en Análisis y Desarrollo de Software, egresado del SENA.  
+- 💻 Tengo experiencia de 1 año desarrollando soluciones con Node.js, React, Vue.js, MongoDB, PostgreSQL y otras tecnologías modernas.  
+- 🌱 Actualmente estoy profundizando mis conocimientos en desarrollo web, bases de datos y machine learning.  
 - 🎯 Busco colaborar en proyectos que combinen creatividad, tecnología y buenas prácticas de desarrollo.  
 - 🧩 Pregúntame sobre desarrollo de sistemas backend y frontend, diseño de APIs y modelado de datos.  
 
