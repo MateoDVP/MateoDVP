@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logoColor=white" alt="Machine Learning">
 </p>
 
+---
 <!--
 **MateoDVP/MateoDVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
