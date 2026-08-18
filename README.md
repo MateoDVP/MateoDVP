@@ -3,9 +3,9 @@
 
 ---
 
-- 🏢 Actualmente soy Técnico y Tecnólogo en Análisis y Desarrollo de Software, egresado del SENA.  
-- 💻 Tengo experiencia de 2 años desarrollando soluciones con Node.js, React, Vue.js, MongoDB, PostgreSQL y otras tecnologías modernas.  
-- 🌱 Actualmente estoy profundizando mis conocimientos en desarrollo web, bases de datos y machine learning.  
+- 🏢 Actualmente soy Técnico y Tecnólogo en análisis y desarrollo de software y técnico en desarrollo de software.
+- 💻 Tengo experiencia de 2 años desarrollando soluciones con Python, Node.js, React.js, React Native, Vue.js, MongoDB, PostgreSQL entre otras tecnologías según la necesidad.  
+- 🌱 Tengo conocimiento en Cloud junto con AWS utilizando diferentes servicios como lo son  Lambda, S3, Amplify, DynamoDB, RDS entre otros. 
 - 🎯 Busco colaborar en proyectos que combinen creatividad, tecnología y buenas prácticas de desarrollo.  
 - 🧩 Pregúntame sobre desarrollo de sistemas backend y frontend, diseño de APIs y modelado de datos.  
 
@@ -38,8 +38,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logoColor=white" alt="Machine Learning">
 </p>
 
 ---
