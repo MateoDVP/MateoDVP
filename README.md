@@ -3,7 +3,7 @@
 
 ---
 
-- 🏢 Actualmente soy Técnico y Tecnólogo en análisis y desarrollo de software y técnico en desarrollo de software.
+- 🏢 Actualmente soy Tecnólogo en análisis y desarrollo de software y técnico en desarrollo de software.
 - 💻 Tengo experiencia de 2 años desarrollando soluciones con Python, Node.js, React.js, React Native, Vue.js, MongoDB, PostgreSQL entre otras tecnologías según la necesidad.  
 - 🌱 Tengo conocimiento en Cloud junto con AWS utilizando diferentes servicios como lo son  Lambda, S3, Amplify, DynamoDB, RDS entre otros. 
 - 🎯 Busco colaborar en proyectos que combinen creatividad, tecnología y buenas prácticas de desarrollo.  
