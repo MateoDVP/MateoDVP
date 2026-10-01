@@ -1,4 +1,4 @@
-<h1 align="center">Hola! 👋 Soy Mateo Hernández Piedrahita. Tecnólogo en Análisis y Desarrollo de Software 💻</h1>
+<h1 align="center">Hola! Soy Mateo Hernández Piedrahita. Tecnólogo en Análisis y Desarrollo de Software</h1>
 
 
 ---
@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="center">📩 Puedes contactarme en:</h3>
+<h3 align="center">Puedes contactarme en:</h3>
 <p align="center">
   <a href="mailto:mateohp73@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
